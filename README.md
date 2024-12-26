@@ -47,11 +47,11 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/employee-burnout-analysis.git  
+# git clone https://github.com/your-username/employee-burnout-analysis.git  
 Install the required libraries:
 bash
 Copy code
-pip install -r requirements.txt  
+# pip install -r requirements.txt  
 Run the notebook to view the analysis and model implementation.
 Acknowledgments
 We thank the contributors of the dataset and the open-source Python libraries that made this project possible.
